@@ -15,41 +15,6 @@
   <img src="https://files.catbox.moe/oh5bya.jpeg" alt="animated" width="300" height="300" />
 </p>
 
+Node.js. file. 👇  
 
-Node.js. file. 👇
-
-
-    name: Node.js CI
-
-    on:
-    push:
-    branches:
-      - main
-    pull_request:
-    branches:
-      - main
-
-    jobs:
-    build:
-
-    runs-on: ubuntu-latest
-
-    strategy:
-      matrix:
-        node-version: [20.x]
-
-    steps:
-    - name: Checkout repository
-      uses: actions/checkout@v3
-
-    - name: Set up Node.js
-      uses: actions/setup-node@v3
-      with:
-        node-version: ${{ matrix.node-version }}
-
-    - name: Install dependencies
-      run: npm install
-
-    - name: Start application
-      run: npm start
-
+මගෙන්  ඉල්ල  ගන්න  මගෙ  නමි  බරෙ උඩතියනවා
