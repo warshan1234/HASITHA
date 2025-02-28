@@ -1,4 +1,4 @@
-<h1 align="center">VAJIRA-MD 9.O</h1>
+<h1 align="center">HASITHA_MD</h1>
 
 ## after deploy change your mode  👉 .mode button or .mode nonbutton
 
