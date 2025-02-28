@@ -1,6 +1,6 @@
 <h1 align="center">HASITHA  MD</h1>
 
-## welcome TO HASITHA MD WhatsApp BOT
+## welcome TO HASITHA MD WhatsApp BOT   මගෙ yt එකට  පොඩි  සප්එකක්  දානවද   https://youtube.com/@user-md-hasitha?si=3CEod-7LNDG1myHz
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 
@@ -14,14 +14,3 @@
 <p align="center">
   <img src="https://files.catbox.moe/oh5bya.jpeg" alt="animated" width="300" height="300" />
 </p>
-
-<div align="center">
-</p
-
-<hr>
-
-<hr>
-
-<p align="center">
-  <a href="https://youtube.com/@user-md-hasitha?si=3CEod-7LNDG1myHz">
-    <img alt="HASITHA-MD" height="300" width="650" src="https://i.ibb.co/XZFdhy0/IMG-20250102-WA0065.jpg">
