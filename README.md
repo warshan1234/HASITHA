@@ -1,6 +1,6 @@
 <h1 align="center">HASITHA  MD</h1>
 
-## Hy all  me  HASITHA Tnx
+## welcome TO HASITHA MD WhatsApp BOT
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 
