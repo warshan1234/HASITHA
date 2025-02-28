@@ -1,6 +1,6 @@
 <h1 align="center">HASITHA  MD</h1>
 
-## after deploy change your mode  👉 .mode button or .mode nonbutton
+## Hy all  me  HASITHA Tnx
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 
